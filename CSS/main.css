@@ -1,0 +1,27 @@
+.content_websites{
+    display: flex;
+    justify-content: center;
+}
+.content_websites div{
+    margin: 50px;
+    width: 380px;
+    height: 409px;
+    display: flex;
+    padding: 15px;
+    text-align: left;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#bluebox{
+    background-color: #333333;
+    color: white;
+
+}
+#graybox{
+    background-color: #D6D6D6;
+}
+.jobs{
+    display: flex;
+    justify-content: center;
+}

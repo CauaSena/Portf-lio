@@ -1,0 +1,29 @@
+header{
+    text-align: center;
+    margin: 100px;
+}
+.myinfos{
+    display:flex;
+    justify-content: space-around;
+}
+.myinfos picture img{
+    border-radius: 100px;
+    width: 400px;
+    height: auto;
+    margin: auto;
+}
+.myinfos picture{
+    width: 40%;
+}
+.myinfos article{
+    width: 50%;
+    text-align: justify;
+}
+.myinfos article h2{
+    font-size: 56px;
+    font-weight: 900;
+    font-style: bold;
+}
+.myinfos article p{
+    font-size: 20px;
+}
