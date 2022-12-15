@@ -14,12 +14,7 @@ nav{
  nav h2{
     margin-left: 20px ;
 }
-ul:hover{
-    background-color: rgb(121, 138, 121);
-    color: white;
-    border-radius: 5px;
-    transition: 0.5;
-}
+
 .teste ul{
     text-align: center;
     list-style-type: none;
@@ -50,12 +45,5 @@ main div img{
     width: 500px;
     height: auto;
     margin-top: 40%;
-    border-radius: 10px;
-}
-main div img:hover{
-    width: 560px;
-    height: auto;
-    margin-top: 40%;
-
     border-radius: 10px;
 }
